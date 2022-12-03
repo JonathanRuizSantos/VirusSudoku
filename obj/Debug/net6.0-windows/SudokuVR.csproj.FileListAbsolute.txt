@@ -1,0 +1,35 @@
+C:\Users\jon_r\Downloads\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.exe
+C:\Users\jon_r\Downloads\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.deps.json
+C:\Users\jon_r\Downloads\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.runtimeconfig.json
+C:\Users\jon_r\Downloads\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.dll
+C:\Users\jon_r\Downloads\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.pdb
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.csproj.AssemblyReference.cache
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.Form1.resources
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.csproj.GenerateResource.cache
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.AssemblyInfoInputs.cache
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.AssemblyInfo.cs
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.dll
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\refint\SudokuVR.dll
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.pdb
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.genruntimeconfig.cache
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\ref\SudokuVR.dll
+G:\Codigos\06 Personales C#\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.exe
+G:\Codigos\06 Personales C#\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.deps.json
+G:\Codigos\06 Personales C#\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.runtimeconfig.json
+G:\Codigos\06 Personales C#\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.dll
+G:\Codigos\06 Personales C#\SudokuVR\bin\Debug\net6.0-windows\SudokuVR.pdb
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.csproj.AssemblyReference.cache
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.Form1.resources
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.csproj.GenerateResource.cache
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.AssemblyInfoInputs.cache
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.AssemblyInfo.cs
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.csproj.CoreCompileInputs.cache
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.dll
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\refint\SudokuVR.dll
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.pdb
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.genruntimeconfig.cache
+G:\Codigos\06 Personales C#\SudokuVR\obj\Debug\net6.0-windows\ref\SudokuVR.dll
+C:\Users\jon_r\Downloads\SudokuVR\obj\Debug\net6.0-windows\SudokuVR.Properties.Resources.resources
